@@ -2,8 +2,8 @@
 ### Data Analyst Senior | Diplômé en Électronique | Spécialiste Business Intelligence
 
 <p align="center">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Localisation">
+  <img src="https://img.shields.io/badge/Status-Disponible-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Localisation-Congo-blue?style=for-the-badge" alt="Localisation">
 </p>
 
 ---
@@ -24,23 +24,23 @@ Au quotidien, je transforme les données opérationnelles en leviers de croissan
 
 #### 📊 Analyse de Données & Business Intelligence
 <p align="left">
-  <img src="https://shields.io" alt="SQL">
-  <img src="https://shields.io" alt="PowerBI">
-  <img src="https://shields.io" alt="Excel">
-  <img src="https://shields.io" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
 #### 🧠 Méthodologies & Analyse Métier
 <p align="left">
-  <img src="https://shields.io" alt="Inventaire">
-  <img src="https://shields.io" alt="KPIs">
-  <img src="https://shields.io" alt="Benchmarking">
+  <img src="https://img.shields.io/badge/Inventaire-FF6F00?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Inventaire">
+  <img src="https://img.shields.io/badge/KPIs-8E44AD?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="KPIs">
+  <img src="https://img.shields.io/badge/Benchmarking-2C3E50?style=for-the-badge&logo=speedtest&logoColor=white" alt="Benchmarking">
 </p>
 
 #### 🎛️ Systèmes Électroniques & Matériels
 <p align="left">
-  <img src="https://shields.io" alt="Électronique">
-  <img src="https://shields.io" alt="IoT">
+  <img src="https://img.shields.io/badge/Électronique-009688?style=for-the-badge&logo=arduino&logoColor=white" alt="Électronique">
+  <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT">
 </p>
 
 ---
@@ -48,9 +48,9 @@ Au quotidien, je transforme les données opérationnelles en leviers de croissan
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://vercel.app" alt="Statistiques GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=mentor-malonga&show_icons=true&theme=tokyonight" alt="Statistiques GitHub">
   <br>
-  <img src="https://herokuapp.com" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mentor-malonga&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 ---
@@ -66,10 +66,9 @@ Au quotidien, je transforme les données opérationnelles en leviers de croissan
 
 ### 📬 Me Contacter
 
-* 💼 **LinkedIn :** :[//linkedin.com](https://www.linkedin.com/in/mentor-malonga))](https://www.linkedin.com/in/mentor-malonga)
-* 📧 **Email :** [mentormalonga17@gmail.com](mailto:mentormalonga17@gmail.com)
-* 💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me)
+- 💼 **LinkedIn :** [linkedin.com/in/mentor-malonga](https://www.linkedin.com/in/mentor-malonga)
+- 📧 **Email :** [mentormalonga17@gmail.com](mailto:mentormalonga17@gmail.com)
+- 💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me/242069776995)
 
 ---
-<p align="center"> </p>
-
+<p align="center">Propulsé avec passion par Mentor Malonga</p>
