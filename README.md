@@ -1,7 +1,7 @@
 # <p align="center">⚡ MENTOR MALONGA ⚡</p>
 
 <p align="center">
-  <img src="https://github.com/MentorMalonga/MentorMalonga/blob/main/profile.jpg?raw=true" 
+  <img src="https://github.com/MentorMalonga/MentorMalonga/blob/main/WhatsApp Image 2026-03-23 at 16.20.14.jpeg?raw=true" 
        alt="Mentor Malonga" 
        width="200" 
        height="200" 
