@@ -24,7 +24,7 @@ J'ai conçu un **tableau de bord interactif Power BI** couvrant **4 années d'ac
 </p
 
 <p align="center">
-  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Mentor.jpg?raw=true" 
+  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/map-first.jpg?raw=true" 
        alt="Mentor Malonga" 
        width="700">
 </p>
