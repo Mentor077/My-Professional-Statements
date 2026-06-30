@@ -86,13 +86,13 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 ### 🚀 Projets Majeurs Réalisés
 
-[<p align="center">
-  <img src="https://img.shields.io/badge/🔥_3_PROJETS_STRATÉGIQUES_DÉPLOYÉS-FF0000?style=for-the-badge" alt="Projets">
+<p align="center">
+  <a href="Projet1.md">
+    <img src="https://img.shields.io/badge/🔥_3_PROJETS_STRATÉGIQUES_DÉPLOYÉS-FF0000?style=for-the-badge" alt="Projets">
+  </a>
 </p>
 
-> ](Projet1.md)💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
-
----
+> 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
 
 #### 📊 1. Pipeline Big Data d'Optimisation des Stocks & Ventes
 
