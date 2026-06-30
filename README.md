@@ -71,5 +71,5 @@ Au quotidien, je transforme les données opérationnelles en leviers de croissan
 * 💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me)
 
 ---
-<p align="center">Propulsé avec passion par Mentor Malonga</p>
-ajout mon linkedin https://www.linkedin.com/in/mentor-malonga)
+<p align="center"> </p>
+
