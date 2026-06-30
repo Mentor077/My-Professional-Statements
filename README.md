@@ -1,5 +1,5 @@
 # 🚀 Salut, moi c'est Mentor Malonga !
-### Data Analyst | Spécialiste de la Valorisation des Données
+### Data Analyst Senior | Diplômé en Électronique | Spécialiste Business Intelligence
 
 <p align="center">
   <img src="https://shields.io" alt="Status">
@@ -10,35 +10,37 @@
 
 ### 📊 À propos de moi
 
-Passionné par l'analyse des données et la business intelligence. Ma mission est de transformer des données brutes complexes en tableaux de bord clairs, interactifs et exploitables pour aider les entreprises à prendre des décisions stratégiques basées sur des faits.
+Fort d'un parcours académique en **Électronique** et de plus de 6 ans d'expérience pratique (depuis 2020) en tant que **Data Analyst chez Tecno Mobile**, je combine rigueur technique et expertise analytique. 
 
-- ⚡ **Domaine d'expertise :** Nettoyage de données (Data Cleaning), modélisation, création de rapports de Business Intelligence (BI) et analyses statistiques.
-- 🎯 **Objectif actuel :** Concevoir des pipelines de données automatisés et performants adaptés aux besoins décisionnels locaux et internationaux.
-- 🤝 **Collaboration :** Disponible pour des projets d'analyse de données, de création de tableaux de bord ou de consulting.
+Au quotidien, je transforme les données opérationnelles en leviers de croissance. Mon rôle consiste à piloter l'inventaire, assurer un suivi transparent des ventes, définir des KPIs stratégiques et réaliser des Benchmarks compétitifs pour apporter des solutions concrètes aux défis de l'entreprise.
+
+- ⚡ **Domaine d'expertise :** Business Intelligence, gestion des stocks & inventaires, modélisation des ventes, KPI Design & Benchmarking.
+- 🎯 **Compétence clé :** Résolution de problèmes complexes par l'analyse prédictive et descriptive.
+- 🤝 **Collaboration :** Disponible pour des audits de données, la création de tableaux de bord décisionnels et du consulting stratégique.
 
 ---
 
-### 🛠️ Mes Compétences Techniques (Data Stack)
+### 🛠️ Mes Compétences Techniques (Data & Hardware Stack)
 
-#### 🐍 Langages de Programmation & Analyse
+#### 📊 Analyse de Données & Business Intelligence
 <p align="left">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="R">
   <img src="https://shields.io" alt="SQL">
-</p>
-
-#### 📊 Visualisation de Données & Business Intelligence
-<p align="left">
   <img src="https://shields.io" alt="PowerBI">
-  <img src="https://shields.io" alt="Tableau">
   <img src="https://shields.io" alt="Excel">
+  <img src="https://shields.io" alt="Python">
 </p>
 
-#### 🧰 Environnements & Outils de Travail
+#### 🧠 Méthodologies & Analyse Métier
 <p align="left">
-  <img src="https://shields.io" alt="Jupyter">
-  <img src="https://shields.io" alt="Git">
-  <img src="https://shields.io" alt="GitHub">
+  <img src="https://shields.io" alt="Inventaire">
+  <img src="https://shields.io" alt="KPIs">
+  <img src="https://shields.io" alt="Benchmarking">
+</p>
+
+#### 🎛️ Systèmes Électroniques & Matériels
+<p align="left">
+  <img src="https://shields.io" alt="Électronique">
+  <img src="https://shields.io" alt="IoT">
 </p>
 
 ---
@@ -53,18 +55,18 @@ Passionné par l'analyse des données et la business intelligence. Ma mission es
 
 ---
 
-### 📂 Projets Phares (Data Portfolio)
+### 📂 Projets Phares (Data & Operations Portfolio)
 
-1. 📈 **[Nom du Projet 1]** : Tableau de bord interactif d'analyse des ventes pour une entreprise locale.  
-   *Tech : Power BI, SQL, Excel* | [Voir le Repo](URL_DU_REPO)
-2. 🧹 **[Nom du Projet 2]** : Nettoyage et exploration statistique d'un jeu de données volumineux.  
-   *Tech : Python (Pandas, NumPy, Seaborn)* | [Voir le Repo](URL_DU_REPO)
+1. 📱 **[Sales & Inventory Tracker]** : Système automatisé de suivi des ventes et de gestion d'inventaire en temps réel pour le secteur de la téléphonie.  
+   *Tech : SQL, Power BI, Advanced Excel* | [Voir le Repo](URL_DU_REPO)
+2. 🎯 **[KPI Dashboard & Benchmark Tool]** : Tableau de bord de pilotage de la performance commerciale avec analyse comparative des parts de marché.  
+   *Tech : Python, Power BI* | [Voir le Repo](URL_DU_REPO)
 
 ---
 
 ### 📬 Me Contacter
 
-* 💼 **LinkedIn :** [://linkedin.com](https://www.://linkedin.com)
+* 💼 **LinkedIn :** [://linkedin.com](https://www.linkedin.com/in/mentor-malonga)
 * 📧 **Email :** [mentormalonga17@gmail.com](mailto:mentormalonga17@gmail.com)
 * 💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me)
 
