@@ -18,10 +18,7 @@ J'ai conçu un **tableau de bord interactif Power BI** couvrant **4 années d'ac
 
 ---
 
-### 👀 Aperçu Rapide du Résultat<p align="center">
-  
-
-</p
+### 👀 Aperçu Rapide du Résultat
 
 <p align="center">
   <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/map-first.jpg?raw=true" 
@@ -120,7 +117,7 @@ Sur la base de cette analyse, j'ai formulé des recommandations concrètes :
 ### 📊 Page 1 — Vue Stratégique Globale
 
 <p align="center">
- <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/map-second.jpg?raw=true" 
+  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/map-second.jpg?raw=true" 
        width="900">
 </p>
 
