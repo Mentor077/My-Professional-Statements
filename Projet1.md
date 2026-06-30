@@ -18,11 +18,14 @@ J'ai conçu un **tableau de bord interactif Power BI** couvrant **4 années d'ac
 
 ---
 
-### 👀 Aperçu Rapide du Résultat
+### 👀 Aperçu Rapide du Résultat<p align="center">
+  
+
+</p
 
 <p align="center">
-  <img src="https://github.com/Mentor077/My-Professionnal-Statements/blob/main/map-first.jpg?raw=true" 
-       alt="Dashboard Page 1" 
+  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Mentor.jpg?raw=true" 
+       alt="Mentor Malonga" 
        width="700">
 </p>
 
