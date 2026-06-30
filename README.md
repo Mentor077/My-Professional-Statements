@@ -1,7 +1,7 @@
 # <p align="center">⚡ MENTOR MALONGA ⚡</p>
 
 <p align="center">
-  <img src="https://github.com/Mentor077/MentorMalonga/blob/main/Image.jpeg?raw=true" 
+  <img src="https://github.com/Mentor077/blob/main/Mentor.jpg?raw=true" 
        alt="Mentor Malonga" 
        width="200" 
        height="200" 
