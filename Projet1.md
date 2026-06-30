@@ -2,7 +2,7 @@
 
 > 🚢 Tableau de bord décisionnel — Analyse de performance commerciale et logistique (2021-2024)
 
-[⬅️ Retour au profil](README.md)
+[⬅️ Retour au profil](https://github.com/Mentor077/Mentor077)
 
 ---
 
@@ -15,6 +15,18 @@ Dans un contexte de forte concurrence, la direction avait besoin d'un outil uniq
 J'ai conçu un **tableau de bord interactif Power BI** couvrant **4 années d'activité (2021-2024)**, transformant des milliers de lignes de données brutes en un outil de décision clair et visuel.
 
 🎯 **Objectif :** Offrir une vision à 360° du cycle commercial — du prospect jusqu'au client confirmé.
+
+---
+
+### 👀 Aperçu Rapide du Résultat
+
+<p align="center">
+  <img src="https://github.com/Mentor077/MAP-Transport-Report/blob/main/page1.png?raw=true" 
+       alt="Dashboard Page 1" 
+       width="700">
+</p>
+
+<p align="center"><i>⬇️ Détails complets et analyse plus bas ⬇️</i></p>
 
 ---
 
@@ -100,14 +112,38 @@ Sur la base de cette analyse, j'ai formulé des recommandations concrètes :
 
 ---
 
-## 🎨 Aperçu du Dashboard
+## 🎨 Dashboard Complet — Vue Détaillée
 
-### Page 1 — Vue Stratégique
-![Dashboard Page 1](lien_image_1.png)
+### 📊 Page 1 — Vue Stratégique Globale
 
-### Page 2 — Analyse de Performance
-![Dashboard Page 2](lien_image_2.png)
+<p align="center">
+  <img src="https://github.com/Mentor077/MAP-Transport-Report/blob/main/page1.png?raw=true" 
+       alt="Dashboard Page 1 - Vue Stratégique" 
+       width="900">
+</p>
+
+> Cette page présente les **8 KPIs principaux**, les tendances annuelles
+> de prospection et de revenus, l'analyse par type de prestation,
+> le Top 3 des meilleures compagnies et la répartition des parts clients.
 
 ---
 
-[⬅️ Retour au profil](README.md)
+### 📈 Page 2 — Analyse Détaillée des Volumes
+
+<p align="center">
+  <img src="https://github.com/Mentor077/MAP-Transport-Report/blob/main/page2.png?raw=true" 
+       alt="Dashboard Page 2 - Analyse de Performance" 
+       width="900">
+</p>
+
+> Cette page analyse en profondeur les **4 types de volumes** :
+> prospecté, confirmé, perdu et en attente. Elle permet d'identifier
+> les compagnies les plus performantes et celles avec le plus de pertes.
+
+---
+
+<p align="center">
+  <a href="https://github.com/Mentor077/Mentor077">
+    <img src="https://img.shields.io/badge/⬅️_Retour_au_Profil_Principal-000000?style=for-the-badge&logo=github&logoColor=white" alt="Retour">
+  </a>
+</p>
