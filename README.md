@@ -1,6 +1,6 @@
 <!-- Image d'en-tête (Bannière de profil) -->
 <p align="center">
-  <img src="https://github.com" 
+  <img src="Mentor.jpg" 
        alt="Mentor Malonga En-tête" 
        width="100%" 
        height="auto" 
@@ -13,7 +13,7 @@
   <tr>
     <!-- Colonne Gauche : Photo de profil alignée -->
     <td valign="top" width="220">
-      <img src="https://github.com" 
+      <img src="https://git" 
            alt="Mentor Malonga" 
            width="200" 
            height="200" 
