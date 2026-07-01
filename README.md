@@ -70,7 +70,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 *   🔥 **Projet 1 Déployé :**Conception d'un tableau de bord interactif Power BI permettant de suivre les performances commerciales, les prospects, les revenus, les pertes et les principaux indicateurs (KPIs) d'une entreprise de transport de 2021 à 2024 afin de faciliter la prise de décision.**
 
 *   🔥 **Projet 2 Déployé :**Ce projet est un tableau de bord de Business Intelligence (BI) développé sur Power BI par Mentor Malonga, analysant les performances commerciales de janvier avec un taux de réalisation des objectifs de 127 % (1 922 ventes pour un objectif de 1 515) et détaillant la répartition des ventes par superviseur, modèle de téléphone, marché local (Brazzaville, Pointe-Noire, Dolisie, Ouesso, Oyo) et type de boutique.**
-*   🔥 **Projet 3 Déployé :
+*   🔥 **Projet 3 Déployé :**Ce projet est un tableau de bord analytique d'aide à la décision conçu sur Power BI, offrant une vue d'ensemble sur les résultats du Baccalauréat congolais 2024 avec le suivi de 39 876 élèves diplômés répartis à travers 703 établissements scolaires, tout en analysant l'âge moyen (21 ans), la moyenne des notes (11,46/20), le genre et les mentions obtenues.**
 > 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
 
 #### 📊 1. Pipeline Big Data d'Optimisation des Stocks & Ventes
