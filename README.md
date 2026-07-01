@@ -1,17 +1,6 @@
-<!-- Image d'en-tête (Bannière de profil) -->
-<p align="center">
-  <img src="Mentor.jpg" 
-       alt="Mentor Malonga En-tête" 
-       width="100%" 
-       height="auto" 
-       style="max-height: 300px; object-fit: cover; border-radius: 10px;">
-</p>
-
-<br>
-
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <!-- Colonne Gauche : Photo de profil alignée -->
+    <!-- Colonne Gauche : Photo de profil récupérée à la racine -->
     <td valign="top" width="220">
       <img src="Mentor.jpg" 
            alt="Mentor Malonga" 
@@ -78,8 +67,8 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 ### 🚀 Projets Majeurs Réalisés
 
-*   🔥 **Projet 1 Deployé :** Pipeline Big Data d'Optimisation des Stocks & Ventes
-*   🔥 **Projet 2 Deployé :** Planification Stratégique et Benchmarking Commercial
+*   🔥 **Projet 1 Déployé :** Pipeline Big Data d'Optimisation des Stocks & Ventes
+*   🔥 **Projet 2 Déployé :** Planification Stratégique et Benchmarking Commercial
 
 > 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
 
@@ -93,7 +82,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Solution** | Utilisation de **PySpark** pour l'ingestion des données brutes, nettoyage sous **Pandas** et stockage dans une base SQL connectée à un rapport dynamique **Power BI** |
 | **Impact** | Réduction drastique des écarts d'inventaire et mise en place d'alertes automatiques basées sur des seuils critiques |
 
-    👉 [Voir le Projet](https://github.com)
+👉 [Voir le Projet](https://github.com)
 
 ---
 
@@ -108,6 +97,14 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Impact** | Alignement parfait des livrables et optimisation du positionnement tarifaire de la marque sur le marché local |
 
 *Outils clés utilisés : MS Project, Excel Advanced, KPI Design*
+
+---
+
+### 🎖️ Certifications Principales
+
+*   🥇 **Google Data Analytics Professional Certificate** — Coursera
+*   📊 **Microsoft Certified: Power BI Data Analyst Associate** (PL-300)
+*   🐍 **Big Data Fundations with Apache Spark** — IBM
 
 ---
 
