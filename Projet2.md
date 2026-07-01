@@ -63,9 +63,12 @@ Le dashboard permet notamment de suivre :
 
 > *Ajouter ici une capture d'écran du tableau de bord.*
 
-```md
-![Dashboard](images/dashboard.png)
-```
+
+<p align="center">
+  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/IMAGE2.jpg?raw=true" 
+       width="900">
+</p>
+
 
 ---
 
