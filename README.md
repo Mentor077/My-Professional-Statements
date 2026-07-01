@@ -1,7 +1,3 @@
-Voici ton code entièrement réécrit avec **une seule couleur marron cohérente partout** (j’ai harmonisé tous les badges + supprimé les couleurs multiples + uniformisé en `6F4E37`) :
-
-
-
 <h1 align="center">⚡ MENTOR MALONGA ⚡</h1>
 
 <p align="center">
@@ -27,17 +23,17 @@ Voici ton code entièrement réécrit avec **une seule couleur marron cohérente
 
 ---
 
-### 🎯 Profil Professionnel
+## 🎯 Profil Professionnel
 
-Professionnel de la donnée issu d'un parcours académique rigoureux en **Électronique**, je cumule plus de 6 ans d'expérience stratégique au sein de **Tecno Mobile**.
+Professionnel de la donnée issu d'un parcours académique en **Électronique**, avec plus de 6 ans d’expérience chez **Tecno Mobile**.
 
-Mon profil combine expertise technique (**PySpark, Python, SQL**) et expérience terrain en management commercial (Channel Supervisor, SR).  
+Expert en **PySpark, Python, SQL** et management commercial terrain (Channel Supervisor / SR).
 
 ---
 
-### 📊 Matrice de Valeur Ajoutée
+## 📊 Matrice de Valeur Ajoutée
 
-| 📈 STRATÉGIE | 📦 DATA | 🎯 PROJETS |
+| STRATÉGIE | DATA | PROJETS |
 | :--- | :--- | :--- |
 | Channel Supervision | PySpark / Pandas | MS Project |
 | Management ventes | SQL / Python | KPI Design |
@@ -45,16 +41,16 @@ Mon profil combine expertise technique (**PySpark, Python, SQL**) et expérience
 
 ---
 
-### 🛠️ Outils
+## 🛠️ Outils
 
-#### Data Engineering
+### Data Engineering
 <p>
   <img src="https://img.shields.io/badge/PySpark-6F4E37?style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-6F4E37?style=for-the-badge">
   <img src="https://img.shields.io/badge/SQL-6F4E37?style=for-the-badge">
 </p>
 
-#### BI & Analyse
+### BI & Analyse
 <p>
   <img src="https://img.shields.io/badge/Power_BI-6F4E37?style=for-the-badge">
   <img src="https://img.shields.io/badge/Excel-6F4E37?style=for-the-badge">
@@ -63,48 +59,65 @@ Mon profil combine expertise technique (**PySpark, Python, SQL**) et expérience
 
 ---
 
-## 🚀 PROJETS
+## 🚀 PROJETS MAJEURS
+
+---
 
 ### 📊 1. Pipeline Big Data – Stock & Ventes
 
 **Objectif :** Optimiser la gestion des stocks réseau.
 
 **Solution :**
-- PySpark pour ingestion
-- Pandas pour nettoyage
-- SQL pour stockage
-- Power BI pour reporting
+- PySpark ingestion données
+- Pandas nettoyage
+- SQL stockage
+- Power BI reporting
 
 **Impact :**
 - Réduction des ruptures
 - Meilleur contrôle des stocks
 
+🔗 Lien projet :
+👉 https://github.com/Mentor077/sales-inventory-tracker
+
 ---
 
 ### 🎯 2. Planification & Benchmark Commercial
 
-**Objectif :** Optimiser la stratégie commerciale.
+**Objectif :** Optimisation stratégie commerciale.
 
 **Solution :**
-- MS Project pour planification
-- KPI pour suivi performance
-- Analyse comparative marché
+- MS Project planification
+- KPI performance
+- Analyse marché
 
 **Impact :**
-- Meilleure organisation des équipes
-- Alignement des objectifs
+- Meilleure organisation
+- Alignement équipes
+
+🔗 Lien projet :
+👉 https://github.com/Mentor077/kpi-dashboard-benchmark
 
 ---
 
-### 📈 3. Modèle Prédictif
+### 📈 3. Modèle Prédictif des Ventes
 
-- Analyse des ventes
-- Python + ML
-- Prévision des tendances
+**Objectif :** Prévoir les tendances de vente.
+
+**Solution :**
+- Python + Machine Learning
+- Pandas data processing
+- Power BI visualisation
+
+**Impact :**
+- +85% précision prévisionnelle
+
+🔗 Lien projet :
+👉 https://github.com/Mentor077/predictive-sales-model
 
 ---
 
-### 📬 Contact
+## 📬 Contact
 
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-6F4E37?style=for-the-badge">
@@ -117,12 +130,3 @@ Mon profil combine expertise technique (**PySpark, Python, SQL**) et expérience
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_Mentor_Malonga_2025-6F4E37?style=for-the-badge">
 </p>
-```
-
----
-
-Si tu veux, je peux aussi te faire une version encore plus propre avec :
-
-* design “GitHub premium”
-* layout plus moderne (cards + sections alignées)
-* ou une version **100% minimaliste pro (type portfolio LinkedIn)**
