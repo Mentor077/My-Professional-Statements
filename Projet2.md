@@ -65,7 +65,7 @@ Le dashboard permet notamment de suivre :
 
 
 <p align="center">
-  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/IMAGE2.jpg?raw=true" 
+  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Image3.jpg?raw=true" 
        width="900">
 </p>
 
