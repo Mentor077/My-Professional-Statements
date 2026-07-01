@@ -1,6 +1,6 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <!-- Colonne Gauche : Photo de profil alignée -->
+    <!-- Colonne Gauche : Photo de profil alignée-->
     <td valign="top" width="220">
       <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Mentor.jpg?raw=true" 
            alt="Mentor Malonga" 
