@@ -1,3 +1,7 @@
+---
+layout: default
+title: MAP Transport Performance Dashboard
+---
 # 📊 MAP Transport Performance Dashboard
 
 > 🚢 Tableau de bord décisionnel — Analyse de performance commerciale et logistique (2021-2024)
