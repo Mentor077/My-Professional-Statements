@@ -1,3 +1,14 @@
+<!-- Image d'en-tête (Bannière de profil) -->
+<p align="center">
+  <img src="https://github.com" 
+       alt="Mentor Malonga En-tête" 
+       width="100%" 
+       height="auto" 
+       style="max-height: 300px; object-fit: cover; border-radius: 10px;">
+</p>
+
+<br>
+
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <!-- Colonne Gauche : Photo de profil alignée -->
@@ -82,7 +93,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Solution** | Utilisation de **PySpark** pour l'ingestion des données brutes, nettoyage sous **Pandas** et stockage dans une base SQL connectée à un rapport dynamique **Power BI** |
 | **Impact** | Réduction drastique des écarts d'inventaire et mise en place d'alertes automatiques basées sur des seuils critiques |
 
-👉 [Voir le Projet](https://github.com)
+    👉 [Voir le Projet](https://github.com)
 
 ---
 
