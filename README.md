@@ -1,30 +1,9 @@
-<table align="center" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <!-- Colonne Gauche : Photo de profil alignée -->
-    <td valign="top" width="220">
-      <img src="https://github.com" 
-           alt="Mentor Malonga" 
-           width="200" 
-           height="200" 
-           style="border-radius: 10px;">
-    </td>
-    <!-- Colonne Droite : Titres et Badges principaux -->
-    <td valign="top">
-      <h1>⚡ Mentor MALONGA ⚡</h1>
-      <h3>Data Analyst Senior & Channel Supervisor | Expert Big Data, BI & Opérations Retail</h3>
-      <p>
-        <img src="https://shields.io" alt="Expertise">
-        <img src="https://shields.io" alt="Management">
-        <img src="https://shields.io" alt="Entreprise">
-      </p>
-      <p>
-        <img src="https://shields.io📍_Localisation-Congo_Brazzaville-5C4033?style=for-the-badge&logo=googlemaps&logoColor=white&v=2026" alt="Localisation">
-        <img src="https://shields.ioStatus-Disponible-8B4513?style=for-the-badge&v=2026" alt="Status">
-        <img src="https://shields.ioExpérience-+6_ans-5C4033?style=for-the-badge&v=2026" alt="Expérience">
-      </p>
-    </td>
-  </tr>
-</table>
+# ⚡ Mentor MALONGA ⚡
+### Data Analyst Senior & Channel Supervisor | Expert Big Data, BI & Opérations Retail
+
+![Expertise](https://shields.io) ![Management](https://shields.io) ![Entreprise](https://shields.io)
+
+![📍 Localisation](https://shields.io📍__Localisation-Congo__Brazzaville-5C4033?style=for-the-badge&logo=googlemaps&logoColor=white) ![Status](https://shields.ioStatus-Disponible-8B4513?style=for-the-badge) ![Expérience](https://shields.ioExpérience-+6__ans-5C4033?style=for-the-badge)
 
 ---
 
@@ -48,60 +27,42 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 #### 📉 Data Engineering & Big Data
 
-<p align="left">
-  <img src="https://shields.ioPySpark-8B4513?style=for-the-badge&logo=apachespark&logoColor=white&v=2026" alt="PySpark">
-  <img src="https://shields.ioPython_Pandas-5C4033?style=for-the-badge&logo=pandas&logoColor=white&v=2026" alt="Python Pandas">
-  <img src="https://shields.ioSQL-8B4513?style=for-the-badge&logo=postgresql&logoColor=white&v=2026" alt="SQL">
-  <img src="https://shields.ioPython-5C4033?style=for-the-badge&logo=python&logoColor=white&v=2026" alt="Python">
-  <img src="https://shields.ioApache_Hadoop-8B4513?style=for-the-badge&logo=apachehadoop&logoColor=white&v=2026" alt="Hadoop">
-</p>
+![PySpark](https://shields.ioPySpark-8B4513?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python Pandas](https://shields.ioPython__Pandas-5C4033?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://shields.ioSQL-8B4513?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://shields.ioPython-5C4033?style=for-the-badge&logo=python&logoColor=white)
+![Hadoop](https://shields.ioApache__Hadoop-8B4513?style=for-the-badge&logo=apachehadoop&logoColor=white)
 
 #### 📊 Business Intelligence & Gestion de Projet
 
-<p align="left">
-  <img src="https://shields.ioMS_Project-5C4033?style=for-the-badge&logo=microsoft&logoColor=white&v=2026" alt="MS Project">
-  <img src="https://shields.ioPower_BI-8B4513?style=for-the-badge&logo=powerbi&logoColor=white&v=2026" alt="PowerBI">
-  <img src="https://shields.ioMicrosoft_Excel-5C4033?style=for-the-badge&logo=microsoftexcel&logoColor=white&v=2026" alt="Excel">
-  <img src="https://shields.ioGoogle_Sheets-8B4513?style=for-the-badge&logo=googlesheets&logoColor=white&v=2026" alt="Google Sheets">
-  <img src="https://shields.ioTableau-5C4033?style=for-the-badge&logo=tableau&logoColor=white&v=2026" alt="Tableau">
-</p>
+![MS Project](https://shields.ioMS__Project-5C4033?style=for-the-badge&logo=microsoft&logoColor=white)
+![PowerBI](https://shields.ioPower__BI-8B4513?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://shields.ioMicrosoft__Excel-5C4033?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://shields.ioGoogle__Sheets-8B4513?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Tableau](https://shields.ioTableau-5C4033?style=for-the-badge&logo=tableau&logoColor=white)
 
 #### 🧠 Méthodologies & Compétences Métier
 
-<p align="left">
-  <img src="https://shields.ioChannel_Supervision-8B4513?style=for-the-badge&logo=supervisord&logoColor=white&v=2026" alt="Channel Supervision">
-  <img src="https://shields.ioKPI_Design-5C4033?style=for-the-badge&logo=target&logoColor=white&v=2026" alt="KPI Design">
-  <img src="https://shields.ioBenchmarking-8B4513?style=for-the-badge&logo=chartdotjs&logoColor=white&v=2026" alt="Benchmarking">
-  <img src="https://shields.ioInventory_Management-5C4033?style=for-the-badge&logo=databricks&logoColor=white&v=2026" alt="Inventaire">
-  <img src="https://shields.ioData_Visualization-8B4513?style=for-the-badge&logo=grafana&logoColor=white&v=2026" alt="DataViz">
-</p>
+![Channel Supervision](https://shields.ioChannel__Supervision-8B4513?style=for-the-badge&logo=supervisord&logoColor=white)
+![KPI Design](https://shields.ioKPI__Design-5C4033?style=for-the-badge&logo=target&logoColor=white)
+![Benchmarking](https://shields.ioBenchmarking-8B4513?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Inventaire](https://shields.ioInventory__Management-5C4033?style=for-the-badge&logo=databricks&logoColor=white)
+![DataViz](https://shields.ioData__Visualization-8B4513?style=for-the-badge&logo=grafana&logoColor=white)
 
 #### 🎛️ Électronique & Outils Dev
 
-<p align="left">
-  <img src="https://shields.ioÉlectronique-5C4033?style=for-the-badge&logo=arduino&logoColor=white&v=2026" alt="Électronique">
-  <img src="https://shields.ioIoT-8B4513?style=for-the-badge&logo=internetofthings&logoColor=white&v=2026" alt="IoT">
-  <img src="https://shields.ioGit-5C4033?style=for-the-badge&logo=git&logoColor=white&v=2026" alt="Git">
-  <img src="https://shields.ioGitHub-181717?style=for-the-badge&logo=github&logoColor=white&v=2026" alt="GitHub">
-  <img src="https://shields.ioVS_Code-5C4033?style=for-the-badge&logo=visualstudiocode&logoColor=white&v=2026" alt="VSCode">
-  <img src="https://shields.ioJupyter-8B4513?style=for-the-badge&logo=jupyter&logoColor=white&v=2026" alt="Jupyter">
-</p>
+![Électronique](https://shields.ioÉlectronique-5C4033?style=for-the-badge&logo=arduino&logoColor=white)
+![IoT](https://shields.ioIoT-8B4513?style=for-the-badge&logo=internetofthings&logoColor=white)
+![Git](https://shields.ioGit-5C4033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://shields.ioGitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://shields.ioVS__Code-5C4033?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://shields.ioJupyter-8B4513?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ### 🚀 Projets Majeurs Réalisés
 
-<p align="center">
-  <a href="Projet1">
-    <img src="https://shields.io🔥_1_PROJETS_STRATÉGIQUES_DÉPLOYÉS-5C4033?style=for-the-badge&v=2026" alt="Projet 1">
-  </a>
-  <a href="Projet2">
-    <img src="https://shields.io🔥_2_PROJETS_STRATÉGIQUES_DÉPLOYÉS-8B4513?style=for-the-badge&v=2026" alt="Projet 2">
-  </a>
-  <a href="Projet3">
-    <img src="https://shields.io🔥_3_PROJETS_STRATÉGIQUES_DÉPLOYÉS-5C4033?style=for-the-badge&v=2026" alt="Projet 3">
-  </a>
-</p>
+![Projet 1](https://shields.io🔥__1__PROJETS__STRATÉGIQUES__DÉPLOYÉS-5C4033?style=for-the-badge) ![Projet 2](https://shields.io🔥__2__PROJETS__STRATÉGIQUES__DÉPLOYÉS-8B4513?style=for-the-badge) ![Projet 3](https://shields.io🔥__3__PROJETS__STRATÉGIQUES__DÉPLOYÉS-5C4033?style=for-the-badge)
 
 > 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
 
@@ -115,18 +76,9 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Solution** | Utilisation de **PySpark** pour l'ingestion des données brutes, nettoyage sous **Pandas** et stockage dans une base SQL connectée à un rapport dynamique **Power BI** |
 | **Impact** | Réduction drastique des écarts d'inventaire et mise en place d'alertes automatiques basées sur des seuils critiques |
 
-<p align="left">
-  <img src="https://shields.ioPySpark-8B4513?style=flat-square&logo=apachespark&logoColor=white&v=2026" alt="PySpark">
-  <img src="https://shields.ioPandas-5C4033?style=flat-square&logo=pandas&logoColor=white&v=2026" alt="Pandas">
-  <img src="https://shields.ioSQL-8B4513?style=flat-square&logo=postgresql&logoColor=white&v=2026" alt="SQL">
-  <img src="https://shields.ioPower_BI-5C4033?style=flat-square&logo=powerbi&logoColor=white&v=2026" alt="PowerBI">
-</p>
+![PySpark](https://shields.ioPySpark-8B4513?style=flat-square&logo=apachespark&logoColor=white) ![Pandas](https://shields.ioPandas-5C4033?style=flat-square&logo=pandas&logoColor=white) ![SQL](https://shields.ioSQL-8B4513?style=flat-square&logo=postgresql&logoColor=white) ![PowerBI](https://shields.ioPower__BI-5C4033?style=flat-square&logo=powerbi&logoColor=white)
 
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://shields.io👉_Voir_le_Projet-5C4033?style=for-the-badge&logo=github&logoColor=white&v=2026" alt="Repo 1">
-  </a>
-</p>
+👉 [Voir le Projet](https://github.com)
 
 ---
 
@@ -140,25 +92,15 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Solution** | Modélisation de la feuille de route sur **MS Project**, définition des KPIs des équipes de vente (SR) et analyse comparative des parts de marché |
 | **Impact** | Alignement parfait des livrables et optimisation du positionnement tarifaire de la marque sur le marché local |
 
-<p align="left">
-  <img src="https://shields.ioMS_Project-8B4513?style=flat-square&logo=microsoft&logoColor=white&v=2026" alt="MS Project">
-</p>
+![MS Project](https://shields.ioMS__Project-8B4513?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
 
 ### 📬 Me Contacter
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.ioLinkedIn-8B4513?style=for-the-badge&logo=linkedin&logoColor=white&v=2026" alt="LinkedIn">
-  </a>
-  <a href="https://wa.me" target="_blank">
-    <img src="https://shields.ioWhatsApp-5C4033?style=for-the-badge&logo=whatsapp&logoColor=white&v=2026" alt="WhatsApp">
-  </a>
-  <a href="mailto:mentormalonga17@gmail.com">
-    <img src="https://shields.ioEmail-8B4513?style=for-the-badge&logo=gmail&logoColor=white&v=2026" alt="Email">
-  </a>
-</p>
+* **LinkedIn :** [://linkedin.com](https://www.://linkedin.com)
+* **WhatsApp :** [+242 06 977 69 95](https://wa.me)
+* **Email :** mentormalonga17@gmail.com
 
 ---
 <p align="center">Conçu avec précision • Mentor Malonga © 2026</p>
