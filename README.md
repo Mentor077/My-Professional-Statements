@@ -88,7 +88,12 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 <p align="center">
  <a href="Projet1">
-    <img src="https://img.shields.io/badge/🔥_3_PROJETS_STRATÉGIQUES_DÉPLOYÉS-FF0000?style=for-the-badge" alt="Projets">
+    <img src="https://img.shields.io/badge/🔥_1_PROJETS_STRATÉGIQUES_DÉPLOYÉS-FF0000?style=for-the-badge" alt="Projets">
+  </a>
+</p>
+<p align="left">
+ <a href="Projet2">
+    <img src="https://img.shields.io/badge/🔥_2_PROJETS_STRATÉGIQUES_DÉPLOYÉS-FF0000?style=for-the-badge" alt="Projets">
   </a>
 </p>
 
