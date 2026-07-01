@@ -1,4 +1,4 @@
-<h1 align="center">⚡ MENTOR MALONGA ⚡</h1>
+<h1 align="center">⚡ Mentor MALONGA ⚡</h1>
 
 <p align="center">
   <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Mentor.jpg?raw=true" 
