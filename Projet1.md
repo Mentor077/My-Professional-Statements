@@ -114,7 +114,7 @@ L'exploration visuelle de la donnée a révélé des opportunités et des points
 ---
 
 <p align="center">
-  <a href="https://github.com">
+  <a href="./README.md">
     🏁 <b>[./README.md]</b>
   </a>
 </p>
