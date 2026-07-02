@@ -18,7 +18,7 @@ title: MAP Transport Performance Dashboard
 
 > 🚢 Tableau de bord décisionnel — Analyse de performance commerciale et logistique (2021-2024)
 
-⬅️ [**Retour au Profil Principal**](README.md)
+⬅️ [**Retour au Profil Principal**](https://github.com)
 
 ---
 
@@ -64,7 +64,7 @@ Le projet s'est déroulé en plusieurs phases clés :
 - Structuration par année, prestation, destination et entreprise.
 
 ### 🔹 Modélisation Relationnelle
-- Création du modèle de données en étoile.
+- Creation du modèle de données en étoile.
 - Établissement des relations de type 1-à-plusieurs entre les tables de dimensions (Prestations, Temps, Clients) et la table de faits.
 
 ### 🔹 Conception des Indicateurs Métier (DAX)
@@ -102,7 +102,7 @@ L'exploration visuelle de la donnée a révélé des opportunités et des points
 
 ## 5️⃣ Solutions & Recommandations
 
-| Problème identifié | Solution propsée |
+| Problème identifié | Solution proposée |
 |--------------------|-------------------|
 | 💸 Pertes commerciales élevées | Mettre en place un audit systématique des motifs de refus sur les devis perdus |
 | ⏳ 390 M FCFA en attente | Automatiser les alertes de relance sur WhatsApp/Email pour les dossiers suspendus |
@@ -112,5 +112,5 @@ L'exploration visuelle de la donnée a révélé des opportunités et des points
 ---
 
 <p align="center">
-  ⬅️ <a href="README.md"><b>[Retour au Profil Principal]</b></a>
+  ⬅️ <a href="https://github.com"><b>[Retour au Profil Principal]</b></a>
 </p>
