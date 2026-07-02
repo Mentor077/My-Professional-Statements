@@ -2,7 +2,19 @@
 layout: default
 title: MAP Transport Performance Dashboard
 ---
-# 📊 MAP Transport Performance Dashboard
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Colonne Gauche : Logo automatique (icône Data/Logistique) -->
+    <td valign="middle" width="70">
+      <img src="https://shields.io" width="55" height="55" style="border-radius: 8px;">
+    </td>
+    <!-- Colonne Droite : Ton Titre aligné au même niveau -->
+    <td valign="middle">
+      <h1>MAP Transport Performance Dashboard</h1>
+    </td>
+  </tr>
+</table>
 
 > 🚢 Tableau de bord décisionnel — Analyse de performance commerciale et logistique (2021-2024)
 
@@ -59,13 +71,6 @@ Le projet s'est déroulé en plusieurs phases :
 ---
 
 ## 3️⃣ Outils Utilisés
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI">
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="PowerQuery">
-  <img src="https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX">
-  <img src="https://img.shields.io/badge/Data_Modeling-1565C0?style=for-the-badge&logo=databricks&logoColor=white" alt="DataModeling">
-</p>
 
 | Outil | Utilisation |
 |-------|-------------|
@@ -147,6 +152,6 @@ Sur la base de cette analyse, j'ai formulé des recommandations concrètes :
 
 <p align="center">
   <a href="https://github.com/Mentor077/Mentor077">
-    <img src="https://img.shields.io/badge/⬅️_Retour_au_Profil_Principal-000000?style=for-the-badge&logo=github&logoColor=white" alt="Retour">
+    <img src="https://shields.io" alt="Retour">
   </a>
 </p>
