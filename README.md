@@ -68,20 +68,11 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 ### 🚀 Projets Majeurs Réalisés
 
 <p align="center">
-  <a href="#pro-1">
-    <img src="https://shields.io🔥__PROJET__1__DÉPLOYÉ-8B4513?style=for-the-badge" alt="Projet 1">
-  </a>
-  <a href="#pro-2">
-    <img src="https://shields.io🔥__PROJET__2__DÉPLOYÉ-5C4033?style=for-the-badge" alt="Projet 2">
-  </a>
-  <a href="#pro-3">
-    <img src="https://shields.io🔥__PROJET__3__DÉPLOYÉS-8B4513?style=for-the-badge" alt="Projet 3">
-  </a>
+  <img src="https://shields.io🔥__PROJETS__STRATÉGIQUES__DÉPLOYÉS-5C4033?style=for-the-badge" alt="Projets Déployés">
 </p>
 
 > 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
 
-<a id="pro-1"></a>
 #### 📊 1. Business Intelligence – Transport Logistics Dashboard (2021 - 2024)
 
 > Conception d'un tableau de bord interactif Power BI permettant de suivre les performances commerciales, les prospects, les revenus, les pertes et les principaux indicateurs (KPIs) d'une entreprise de transport de 2021 à 2024 afin de faciliter la prise de décision.
@@ -92,18 +83,13 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Solution** | Modélisation des tables de faits, nettoyage des données et conception d'indicateurs visuels de pertes et profits |
 | **Impact** | Visibilité instantanée sur les lignes les plus rentables et réduction des pertes opérationnelles |
 
-<p align="left">
-  <a href="https://github.com" target="_blank">
-    <img src="https://shields.io🔗__Rejoindre__le__Projet__1-8B4513?style=for-the-badge&logo=github&logoColor=white" alt="Lien Projet 1">
-  </a>
-</p>
+👉 [**Consulter la page complète du Projet 1 (Transport Logistics Dashboard)**](https://github.com)
 
 ---
 
-<a id="pro-2"></a>
 #### 📊 2. Marketing Analytics & Commercial Sales Performance Tracker (Tecno Mobile)
 
-> Étude approfondie du marché et suivi rigoureux des performances commerciales de janvier avec un taux de réalisation des objectifs de 127 % (1 922 ventes pour un objectif de 1 515) détaillant la répartition des ventes par superviseur, modèle de téléphone, marché local (Bravzaville, Pointe-Noire, Dolisie, Ouesso, Oyo) et type de boutique.
+> Étude approfondie du marché et suivi rigoureux des performances commerciales de janvier avec un taux de réalisation des objectifs de 127 % (1 922 ventes pour un objectif de 1 515) détaillant la répartition des ventes par superviseur, modèle de téléphone, marché local (Brazzaville, Pointe-Noire, Dolisie, Ouesso, Oyo) et type de boutique.
 
 | Élément | Détail |
 |---------|--------|
@@ -111,15 +97,10 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Solution** | Mise en œuvre d'un processus **ETL complet** (Extraction, Transformation, Chargement) avec **PySpark** et **Pandas** pour nettoyer les données, puis modélisation des rapports de suivi des ventes sur **Power BI** |
 | **Impact** | Atteinte de 127% de l'objectif mensuel, visibilité en temps réel sur la demande par ville et optimisation des décisions de réapprovisionnement terrain |
 
-<p align="left">
-  <a href="https://github.com" target="_blank">
-    <img src="https://shields.io🔗__Rejoindre__le__Projet__2-5C4033?style=for-the-badge&logo=github&logoColor=white" alt="Lien Projet 2">
-  </a>
-</p>
+👉 [**Consulter la page complète du Projet 2 (Marketing Analytics Tracker)**](https://github.com)
 
 ---
 
-<a id="pro-3"></a>
 #### 🎓 3. Educational Market Analysis & Strategic Ingestion Dashboard
 
 > Tableau de bord analytique d'aide à la décision conçu sur Power BI, offrant une vue d'ensemble sur les résultats du Baccalauréat congolais 2024 avec le suivi de 39 876 élèves diplômés répartis à travers 703 établissements scolaires, tout en analysant l'âge moyen (21 ans), la moyenne des notes (11,46/20), le genre et les mentions obtenues.
@@ -130,11 +111,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Solution** | Ingestion de gros volumes de données élèves, classification par canal (Public vs Privé vs Candidat libre) et suivi rigoureux des moyennes et mentions par session |
 | **Impact** | Cartographie stratégique de la performance par établissement et par tranche d'âge, facilitant l'évaluation macro-analytique |
 
-<p align="left">
-  <a href="https://github.com" target="_blank">
-    <img src="https://shields.io🔗__Rejoindre__le__Projet__3-8B4513?style=for-the-badge&logo=github&logoColor=white" alt="Lien Projet 3">
-  </a>
-</p>
+👉 [**Consulter la page complète du Projet 3 (Educational Market Analysis)**](https://github.com)
 
 ---
 
