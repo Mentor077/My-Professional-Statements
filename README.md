@@ -1,6 +1,6 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <!-- Colonne Gauche : Photo de profil récupérée à la racine -->
+    <!-- Colonne Gauche : Photo de profil à la racine -->
     <td valign="top" width="220">
       <img src="Mentor.jpg" 
            alt="Mentor Malonga" 
@@ -8,25 +8,23 @@
            height="200" 
            style="border-radius: 10px;">
     </td>
-    <!-- Colonne Droite : Titres -->
+    <!-- Colonne Droite : Titres et Informations clés -->
     <td valign="top">
       <h1>⚡ Mentor MALONGA ⚡</h1>
       <h3>Data Analyst Senior & Channel Supervisor | Expert Big Data, BI & Opérations Retail</h3>
+      <p>
+        💼 <b>Expertise :</b> Big Data & BI &nbsp;|&nbsp; 
+        👥 <b>Management :</b> Channel Supervisor &nbsp;|&nbsp; 
+        🏢 <b>Entreprise :</b> Tecno Mobile
+      </p>
+      <p>
+        📍 <b>Localisation :</b> Congo Brazzaville &nbsp;|&nbsp; 
+        🟢 <b>Status :</b> Disponible &nbsp;|&nbsp; 
+        📈 <b>Expérience :</b> +6 ans
+      </p>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://shields.io" alt="Expertise">
-  <img src="https://shields.io" alt="Management">
-  <img src="https://shields.io" alt="Entreprise">
-</p>
-
-<p align="center">
-  <img src="https://shields.io📍__Localisation-Congo__Brazzaville-5C4033?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localisation">
-  <img src="https://shields.ioStatus-Disponible-8B4513?style=for-the-badge" alt="Status">
-  <img src="https://shields.ioExpérience-+6__ans-5C4033?style=for-the-badge" alt="Expérience">
-</p>
 
 ---
 
@@ -49,8 +47,8 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 ### 🛠️ Ma Boîte à Outils (Tech & Management Stack)
 
 #### 📉 Data Engineering & Big Data
-*   🛠️ **Framework & Traitement :** PySpark, Apache Hadoop
-*   🐍 **Langages :** Python, Python Pandas, SQL
+*   ⚙️ **Frameworks :** PySpark, Apache Hadoop
+*   🐍 **Langages & Librairies :** Python, Python Pandas, SQL
 
 #### 📊 Business Intelligence & Gestion de Projet
 *   📅 **Planification :** MS Project
@@ -68,10 +66,6 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 ---
 
 ### 🚀 Projets Majeurs Réalisés
-
-<p align="center">
-  <img src="https://shields.io🔥__PROJETS__STRATÉGIQUES__DÉPLOYÉS-5C4033?style=for-the-badge" alt="Projets Déployés">
-</p>
 
 > 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
 
@@ -105,7 +99,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 #### 🎓 3. Educational Market Analysis & Strategic Ingestion Dashboard
 
-> Tableau de bord analytique d'aide à la décision conçu sur Power BI, offrant une vue d'ensemble sur les résultats du Baccalauréat congolais 2024 avec le suivi de 39 876 élèves diplômés répartis à travers 703 établissements scolaires, tout en analysant l'âge moyen (21 ans), la moyenne des notes (11,46/20), le genre et les mentions obtenues.
+> Tableau de bord analytique d'aide à la décision conçu sur Power BI, offering une vue d'ensemble sur les résultats du Baccalauréat congolais 2024 avec le suivi de 39 876 élèves diplômés répartis à travers 703 établissements scolaires, tout en analysant l'âge moyen (21 ans), la moyenne des notes (11,46/20), le genre et les mentions obtenues.
 
 | Élément | Détail |
 |---------|--------|
@@ -113,7 +107,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Solution** | Ingestion de gros volumes de données élèves, classification par canal (Public vs Privé vs Candidat libre) et suivi rigoureux des moyennes et mentions par session |
 | **Impact** | Cartographie stratégique de la performance par établissement et par tranche d'âge, facilitant l'évaluation macro-analytique |
 
-    👉 [**Consulter la page complète du Projet 3 (Educational Market Analysis)**](https://github.com)
+👉 [**Consulter la page complète du Projet 3 (Educational Market Analysis)**](https://github.com)
 
 ---
 
@@ -127,17 +121,9 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 ### 📬 Me Contacter
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.ioLinkedIn-8B4513?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://wa.me" target="_blank">
-    <img src="https://shields.ioWhatsApp-5C4033?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:mentormalonga17@gmail.com">
-    <img src="https://shields.ioEmail-8B4513?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+*   💼 **LinkedIn :** [://linkedin.com](https://www.://linkedin.com)
+*   💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me)
+*   📧 **Email :** mentormalonga17@gmail.com
 
 ---
 <p align="center">Conçu avec précision • Mentor Malonga © 2026</p>
