@@ -7,7 +7,7 @@ title: MAP Transport Performance Dashboard
   <tr>
     <!-- Colonne Gauche : Logo automatique (icône Data/Logistique) -->
     <td valign="middle" width="70">
-      <img src="https://shields.io" width="55" height="55" style="border-radius: 8px;">
+      <img src="imag_projet1" width="55" height="55" style="border-radius: 8px;">
     </td>
     <!-- Colonne Droite : Ton Titre aligné au même niveau -->
     <td valign="middle">
