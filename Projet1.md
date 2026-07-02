@@ -7,7 +7,7 @@ title: MAP Transport Performance Dashboard
   <tr>
     <!-- Colonne Gauche : Icône Data/Logistique stable -->
     <td valign="middle" width="70">
-      <img src="https://shields.io📊__MAP-Transport-8B4513?style=for-the-badge" width="55" height="55" style="border-radius: 8px;">
+      <img src="Image_projet1.jpg" width="55" height="55" style="border-radius: 8px;">
     </td>
     <!-- Colonne Droite : Titre aligné au même niveau -->
     <td valign="middle">
@@ -38,7 +38,7 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 
 ### 📊 Vue 1 — Le Dashboard Général
 <p align="center">
-  <img src="https://github.com" 
+  <img src="map-first.jpg" 
        width="900" alt="Dashboard Général - MAP Transport">
 </p>
 
@@ -48,7 +48,7 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 
 ### 📈 Vue 2 — Le Tableau de Détail des Indicateurs
 <p align="center">
-  <img src="https://github.com" 
+  <img src="map-second.jpg" 
        width="900" alt="Tableau de Détail des Indicateurs - MAP Transport">
 </p>
 
