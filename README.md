@@ -2,11 +2,7 @@
   <tr>
     <!-- Colonne Gauche : Photo de profil à la racine -->
     <td valign="top" width="220">
-      <img src="Mentor.jpg" 
-           alt="Mentor Malonga" 
-           width="200" 
-           height="200" 
-           style="border-radius: 10px;">
+      <img src="Mentor.jpg" alt="Mentor Malonga" width="200" height="200" style="border-radius: 10px;">
     </td>
     <!-- Colonne Droite : Titres et Informations clés -->
     <td valign="top">
@@ -25,6 +21,13 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🎯 Profil Professionnel
+
+Professionnel de la donnée issu d'un parcours académique rigoureux en **Électronique**, je cumule plus de 6 ans d'expérience stratégique (depuis 2020) au sein de **Tecno Mobile**.
+
 
 ---
 
