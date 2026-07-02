@@ -7,7 +7,7 @@ title: MAP Transport Performance Dashboard
   <tr>
     <!-- Colonne Gauche : Icône Data/Logistique stable -->
     <td valign="middle" width="70">
-      <img src="Image_projet1.jpg" width="55" height="55" style="border-radius: 8px;">
+      <img src="image_projet1.jpg" width="55" height="55" style="border-radius: 8px;">
     </td>
     <!-- Colonne Droite : Titre aligné au même niveau -->
     <td valign="middle">
