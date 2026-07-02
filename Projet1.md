@@ -3,6 +3,14 @@ layout: default
 title: MAP Transport Performance Dashboard
 ---
 
+<p align="left">
+  <a href="README.md" target="_top">
+    ⬅️ <b>[Retour au Profil Principal]</b>
+  </a>
+</p>
+
+---
+
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <!-- Colonne Gauche : Ton image locale chargée automatiquement -->
@@ -17,10 +25,6 @@ title: MAP Transport Performance Dashboard
 </table>
 
 > 🚢 Tableau de bord décisionnel — Analyse de performance commerciale et logistique (2021-2024)
-
-⬅️ [**Retour au Profil Principal**](https://github.com/My-Professional-Statements/README)
-
----
 
 ## 1️⃣ Introduction du Projet
 
@@ -64,7 +68,7 @@ Le projet s'est déroulé en plusieurs phases clés :
 - Structuration par année, prestation, destination et entreprise.
 
 ### 🔹 Modélisation Relationnelle
-- Creation du modèle de données en étoile.
+- Création du modèle de données en étoile.
 - Établissement des relations de type 1-à-plusieurs entre les tables de dimensions (Prestations, Temps, Clients) et la table de faits.
 
 ### 🔹 Conception des Indicateurs Métier (DAX)
@@ -112,5 +116,7 @@ L'exploration visuelle de la donnée a révélé des opportunités et des points
 ---
 
 <p align="center">
-  ⬅️ <a href="https://github.com"><b>[Retour au Profil Principal]</b></a>
+  <a href="README.md" target="_top">
+    🏁 <b>[Retour au Profil Principal]</b>
+  </a>
 </p>
