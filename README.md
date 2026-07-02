@@ -8,23 +8,25 @@
            height="200" 
            style="border-radius: 10px;">
     </td>
-    <!-- Colonne Droite : Titres et Badges principaux -->
+    <!-- Colonne Droite : Titres -->
     <td valign="top">
       <h1>⚡ Mentor MALONGA ⚡</h1>
       <h3>Data Analyst Senior & Channel Supervisor | Expert Big Data, BI & Opérations Retail</h3>
-      <p>
-        <img src="https://shields.io" alt="Expertise">
-        <img src="https://shields.io" alt="Management">
-        <img src="https://shields.io" alt="Entreprise">
-      </p>
-      <p>
-        <img src="https://shields.io📍__Localisation-Congo__Brazzaville-5C4033?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localisation">
-        <img src="https://shields.ioStatus-Disponible-8B4513?style=for-the-badge" alt="Status">
-        <img src="https://shields.ioExpérience-+6__ans-5C4033?style=for-the-badge" alt="Expérience">
-      </p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://shields.io" alt="Expertise">
+  <img src="https://shields.io" alt="Management">
+  <img src="https://shields.io" alt="Entreprise">
+</p>
+
+<p align="center">
+  <img src="https://shields.io📍__Localisation-Congo__Brazzaville-5C4033?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localisation">
+  <img src="https://shields.ioStatus-Disponible-8B4513?style=for-the-badge" alt="Status">
+  <img src="https://shields.ioExpérience-+6__ans-5C4033?style=for-the-badge" alt="Expérience">
+</p>
 
 ---
 
@@ -111,7 +113,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Solution** | Ingestion de gros volumes de données élèves, classification par canal (Public vs Privé vs Candidat libre) et suivi rigoureux des moyennes et mentions par session |
 | **Impact** | Cartographie stratégique de la performance par établissement et par tranche d'âge, facilitant l'évaluation macro-analytique |
 
-👉 [**Consulter la page complète du Projet 3 (Educational Market Analysis)**](https://github.com)
+    👉 [**Consulter la page complète du Projet 3 (Educational Market Analysis)**](https://github.com)
 
 ---
 
