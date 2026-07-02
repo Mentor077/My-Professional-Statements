@@ -79,7 +79,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Solution** | Modélisation des tables de faits, nettoyage des données et conception d'indicateurs visuels de pertes et profits |
 | **Impact** | Visibilité instantanée sur les lignes les plus rentables et réduction des pertes opérationnelles |
 
-👉 [**Consulter la page complète du Projet 1 (Transport Logistics Dashboard)**](Projet1)
+👉 [**Consulter la page complète du Projet 1 (Transport Logistics Dashboard)**](./Projet1)
 
 ---
 
