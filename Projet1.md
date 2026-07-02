@@ -1,4 +1,4 @@
-
+---
 layout: default
 title: MAP Transport Performance Dashboard
 ---
@@ -18,7 +18,9 @@ title: MAP Transport Performance Dashboard
 
 > 🚢 Tableau de bord décisionnel — Analyse de performance commerciale et logistique (2021-2024)
 
- 
+⬅️ [**Retour au Profil Principal**](README.md)
+
+---
 
 ## 1️⃣ Introduction du Projet
 
@@ -36,8 +38,7 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 
 ### 📊 Vue 1 — Le Dashboard Général
 <p align="center">
-  <img src="map-first.jpg" 
-       width="900" alt="Dashboard Général - MAP Transport">
+  <img src="map-first.jpg" width="900" alt="Dashboard Général - MAP Transport">
 </p>
 
 > Cette première vue offre un pilotage macro-économique global. Elle met en évidence la trajectoire des revenus annuels, la performance brute par type de prestation (Air, Sea, Road, River) ainsi que la concentration des parts de marché du Top 3 des compagnies clientes.
@@ -46,8 +47,7 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 
 ### 📈 Vue 2 — Le Tableau de Détail des Indicateurs
 <p align="center">
-  <img src="map-second.jpg" 
-       width="900" alt="Tableau de Détail des Indicateurs - MAP Transport">
+  <img src="map-second.jpg" width="900" alt="Tableau de Détail des Indicateurs - MAP Transport">
 </p>
 
 > Cette seconde vue est orientée sur le diagnostic des volumes financiers. Elle segmente de manière croisée les montants prospectés, confirmés, perdus et en attente afin d'identifier avec précision quelles structures ou destinations génèrent les plus fortes pertes commerciales.
@@ -102,7 +102,7 @@ L'exploration visuelle de la donnée a révélé des opportunités et des points
 
 ## 5️⃣ Solutions & Recommandations
 
-| Problème identifié | Solution proposée |
+| Problème identifié | Solution propsée |
 |--------------------|-------------------|
 | 💸 Pertes commerciales élevées | Mettre en place un audit systématique des motifs de refus sur les devis perdus |
 | ⏳ 390 M FCFA en attente | Automatiser les alertes de relance sur WhatsApp/Email pour les dossiers suspendus |
@@ -112,7 +112,5 @@ L'exploration visuelle de la donnée a révélé des opportunités et des points
 ---
 
 <p align="center">
-  <a href="./README.md">
-    🏁 <b>[Retour au Profil Principal]</b>
-  </a>
+  ⬅️ <a href="README.md"><b>[Retour au Profil Principal]</b></a>
 </p>
