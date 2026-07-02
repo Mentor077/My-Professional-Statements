@@ -18,7 +18,7 @@ title: MAP Transport Performance Dashboard
 
 > 🚢 Tableau de bord décisionnel — Analyse de performance commerciale et logistique (2021-2024)
 
-⬅️ [**Retour au Profil Principal**](https://github.com/My-Professional-Statements/README.md)
+⬅️ [**Retour au Profil Principal**](https://github.com/My-Professional-Statements/README)
 
 ---
 
